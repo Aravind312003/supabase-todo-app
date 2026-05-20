@@ -1,0 +1,8 @@
+{
+  "name": "Supabase Todo App",
+  "description": "A modern, full-stack todo application with a Next.js frontend and API routes, featuring seamless Supabase integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
